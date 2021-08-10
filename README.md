@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 ### `Demo` [Website](https://teams-chat-app.web.app/).
-use credentials (username:ashish, password:123123123)
+### use credentials 
+ `User 1(username:ashish, password:123123123)`
+ `User 2(username:akshat, password:123123123)`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
